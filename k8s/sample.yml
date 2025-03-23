@@ -11,7 +11,7 @@ city: hyderabad
 name:ravi
 age :  30
 
-# Dictionary / Map
+# Dictionary / Map grouping related key value pairs together using indentation.
 person:
   name: ravi
   age: 30
@@ -38,3 +38,38 @@ persons: # Dictionary
     - cycling
     - swimming
     - cooking
+***********************************************8
+## key: value
+name: Sanjeev
+age: 30
+city : hyderabad
+
+# Dictionary/Map
+person1:
+  name: chahat
+  age:15
+  city: kuriya
+person2:
+  name: soumya
+  age: 15
+  city: kuriya
+# array and list
+hobbies:
+  - cricket
+  - tenis
+  - football
+********************
+people:
+  - name: ravi
+    age: 30
+    city: hyderabad
+  - name: mohan
+    age: 40
+    city: patna
+
+password: "Admin@123"     
+description: |
+  line 1
+  line 2
+  line 3
+
